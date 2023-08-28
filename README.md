@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DamrongS
 - 👀 I’m interested in game making
-- 🌱 I’m currently learning LUA, JavaScript and Python
+- 🌱 I’m currently learning JavaScript, Python, C#
 - 📫 How to reach me my email is Christofferdamrong@gmail.com
 
 <!---
